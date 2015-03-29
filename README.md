@@ -1,2 +1,2 @@
 Linker is a Ruby on Rails application.
-The basic idea is based on Reddit
+The basic idea is based on Reddit.
